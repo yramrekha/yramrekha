@@ -36,7 +36,7 @@ LinkedIn: www.linkedin.com/in/yaajramrekha
 Email: yramrekha@gmail.com
 
 Thank you for visiting my GitHub repository. I hope you find my work informative and inspiring. 
-I look forward to connecting with you and exploring exciting data engineering opportunities together!
+I look forward to connecting with you and exploring exciting engineering opportunities together!
 
 
 
